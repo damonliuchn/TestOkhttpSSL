@@ -1,0 +1,42 @@
+.idea
+.gradle
+local.properties
+build
+*.apk
+*.iml
+
+# Eclipse project files
+.classpath
+.project
+.settings
+
+# OSX files
+.DS_Store
+.DS_Store?
+
+# Windows thumbnail db
+ehthumbs.db
+Thumbs.db
+
+# OS-specific files
+._*
+.Spotlight-V100
+.Trashes
+
+# Log Files
+*.log
+
+#local
+local
+
+#react-native
+node_modules
+
+#freeline
+freeline
+freeline*
+
+#track
+/*/fabric.properties
+/*/BuglyUploadLog.txt
+/*/SyamtabFileUploaderLog.txt
